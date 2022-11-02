@@ -60,6 +60,10 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku<br>
 THEN I should have proper build scripts for a webpack application<br>
 
+## Book Search Engine Screenshot:
+
+![pix-1](https://user-images.githubusercontent.com/110719370/199583155-0493d52e-044d-4836-a69a-26c60a2b0a6d.png)
+
 ## Book Search Engine Github Repository:
 
 https://github.com/toddrgarner/book-search-engine
